@@ -1,3 +1,3 @@
 ### Estoy en un cumple 🎉
 
-![dinosaurio_cumpleaño](https://user-images.githubusercontent.com/83780330/124519257-c0997180-ddb6-11eb-82bd-65d7b62869b5.gif)
+![o__o](https://user-images.githubusercontent.com/83780330/124519688-0440ab00-ddb8-11eb-8343-1ce7fbcb57d4.gif)
