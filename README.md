@@ -1,5 +1,5 @@
 # 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=paulquezada&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=paulquezada&theme=dark&hide_border=false)<br/>
