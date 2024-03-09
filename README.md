@@ -1,5 +1,5 @@
 <div style="position: relative;">
-  <img src="https://img.freepik.com/fotos-premium/fondo-morado-azul-diseno-ondas_265515-11494.jpg" style="width: 100%; height: 100%; object-fit: cover;">
+  <img src="https://img.freepik.com/fotos-premium/fondo-morado-azul-diseno-ondas_265515-11494.jpg"; object-fit: cover;">
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 3em; color: white; font-weight: bold; text-align: center;">Paul Quezada</div>
 </div>
 
