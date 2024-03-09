@@ -1,3 +1,5 @@
+<img src="https://img.freepik.com/fotos-premium/fondo-morado-azul-diseno-ondas_265515-11494.jpg"/>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-quezada-5106312a8/) 
 
