@@ -1,8 +1,3 @@
-<div style="position: relative;">
-  <img src="https://img.freepik.com/fotos-premium/fondo-morado-azul-diseno-ondas_265515-11494.jpg"; object-fit: cover; rounded:20px">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 3em; color: white; font-weight: bold; text-align: center;">Paul Quezada</div>
-</div>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-quezada-5106312a8/) 
 
