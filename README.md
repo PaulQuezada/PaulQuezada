@@ -1,3 +1,7 @@
+## 📄 My page about me:
+
+https://about-me-ecru-delta.vercel.app/
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-quezada-5106312a8/) 
 
